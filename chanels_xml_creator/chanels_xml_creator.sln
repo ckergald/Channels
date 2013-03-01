@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chanels_xml_creator", "chanels_xml_creator\chanels_xml_creator.csproj", "{BABA6F8D-3ACA-4E0D-B0E6-5D71685D6981}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BABA6F8D-3ACA-4E0D-B0E6-5D71685D6981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABA6F8D-3ACA-4E0D-B0E6-5D71685D6981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABA6F8D-3ACA-4E0D-B0E6-5D71685D6981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABA6F8D-3ACA-4E0D-B0E6-5D71685D6981}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
